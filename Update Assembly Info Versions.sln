@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomBuildActivities", "CustomBuildActivites\CustomBuildActivities.csproj", "{F5382A5A-C3F5-4677-A11E-CC15846A9CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomBuildProcess", "CustomBuildProcess\CustomBuildProcess.csproj", "{D881A0F8-4485-4354-9DA8-E4D464C0A69E}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs2010prod:8080/tfs/it%20development
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = CustomBuildActivites\\CustomBuildActivities.csproj
+		SccProjectName1 = CustomBuildActivites
+		SccLocalPath1 = CustomBuildActivites
+		SccProjectUniqueName2 = CustomBuildProcess\\CustomBuildProcess.csproj
+		SccProjectName2 = CustomBuildProcess
+		SccLocalPath2 = CustomBuildProcess
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5382A5A-C3F5-4677-A11E-CC15846A9CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5382A5A-C3F5-4677-A11E-CC15846A9CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5382A5A-C3F5-4677-A11E-CC15846A9CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5382A5A-C3F5-4677-A11E-CC15846A9CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D881A0F8-4485-4354-9DA8-E4D464C0A69E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D881A0F8-4485-4354-9DA8-E4D464C0A69E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D881A0F8-4485-4354-9DA8-E4D464C0A69E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D881A0F8-4485-4354-9DA8-E4D464C0A69E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
